@@ -316,7 +316,7 @@ class Ui_MainWindow(object):
 2. Select 'Save Team' in 'Manage Team Menu or click  Ctrl+S to Save the Team\n
 3. Select 'Open Team' in 'Manage Team' Menu or click  Ctrl+O to Open Team\n
 4. Select 'Delete Team' in 'Manage Team' Menu or click  Ctrl+Q to Delete a Team\n
-5. Inorder to modify the Team, You can Delete that Team and re-create it\n'''
+5. Inorder to Modify/Edit the Team, You can Delete that Team and Re-create it\n'''
         mess.setText(message)
         mess.setStandardButtons(QtWidgets.QMessageBox.Ok)
         mess.setWindowIcon(QtGui.QIcon('Icons\\message.png'))
@@ -327,7 +327,7 @@ class Ui_MainWindow(object):
         mess=QtWidgets.QMessageBox()
         mess.setWindowTitle('Welcome to Fantasy Cricket Game')
         message='''Hi!  This is Fantasy Cricket Game\nCreated By \bAyushi Aggarwal\b\n
-\aIn this Game, you can \n  --> Create a NEW team \n  --> Open and Edit a team \n  -->Delete a team\n  -->Evaluate Teams'''
+\aIn this Game, you can \n  --> Create a NEW team \n  --> Open a team \n  -->Delete a team\n  -->Evaluate Teams'''
         mess.setText(message)
         mess.setStandardButtons(QtWidgets.QMessageBox.Ok)
         mess.setWindowIcon(QtGui.QIcon('Icons\\message.png'))
