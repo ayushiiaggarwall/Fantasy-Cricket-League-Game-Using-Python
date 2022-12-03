@@ -19,5 +19,5 @@ To use the application -
 -> Run main.py file directly or run cmd 'python main.py runserver'
 
 
-The User Interface of Application - 
+The Initial User Interface of Application (Homepage)- 
 ![image](https://user-images.githubusercontent.com/62741870/205436863-a9b4c2d3-6b65-4a8b-9fe8-3dcef391f667.png)
