@@ -2,7 +2,7 @@
 
 It is an online game where you can create a virtual team of real cricket players and score points depending on how your choosen players perform in real life matches. 
 
-You can calculate the score of your team. To win a tournament, you must try and get the maximum points and the No.1 rank amongst other participants.
+You can calculate the score of your team/ evaluate your created team and in order to win a tournament, you must try and get the maximum points and the No.1 rank amongst other participants.
 
 
 The Cricket Fantasy Game has following features - 
